@@ -6,7 +6,7 @@
 - Requires [NifSkope 1.2.0](http://niftools.sourceforge.net/wiki/NifSkope)
 - Requires [Blender 2.91](https://www.blender.org) (or compatible version)
 - Requires Greatness7's [Morrowind Blender Plugin](https://blender-morrowind.readthedocs.io/en/latest/index.html)
-- Requires [lucky3d's Rig Tools Plugin from their Auto-Rig addon](http://www.lucky3d.fr/auto-rig-pro/doc/) (Necessay plugin included in repository, as it cannot be downloaded directly from them outside of a larger package.) [Download here.](./resources.rig_tools.zip)
+- Requires [lucky3d's Rig Tools Plugin from their Auto-Rig addon](http://www.lucky3d.fr/auto-rig-pro/doc/) (Necessay plugin included in repository, as it cannot be downloaded directly from them outside of a larger package.) [Download here.](./resources/rig_tools.zip)
 - Requires Greatness7's `Rig.blend` starting file. Download here.
 
 This guide assumes a basic working knowledge of these tools.
@@ -73,7 +73,7 @@ Once you are satisfied with the animation, it must be converted to a Morrowind-f
 
 8. If needed, we must setup keyframe text data so Morrowind knows what to do with each part of the animation. You can find a full list of text keys in the section `Animation Text Keys`. To do this, click in the graph editor panel and press `[N]` to open the side menu. From there, you can add text entries for each set of frames in your animation. For general animations, `Idle9` is the standard text key.
 
-![Text Keys.](./images/text-keys.jpg)
+![Text Keys.](./images/text-keys.png)
 
 > If pressing `[N]` in the graph editor does not open the Morrowind sidebar, you probably have not baked your animations yet.
 
