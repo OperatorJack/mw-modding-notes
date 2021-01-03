@@ -1,9 +1,3 @@
----
-layout: default
-title: Home
-nav_exclude: true
----
-
 # mw-modding-notes
 
 Morrowind Modding Notes
