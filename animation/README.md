@@ -90,7 +90,7 @@ Once you are satisfied with the animation, it must be converted to a Morrowind-f
 
 9. Export the animation. Go to `File -> Export -> Morrowind`. Enable options `Export Animation` and `Extract Keyframe data`. The export will generate 3 files. All 3 are required by Morrowind.
 
-### Usage Notes:
+### Usage Notes
 
 - The animation files can be previewed in NifSkope by opening the export file which _does not_ start with `x`. NifSkope should automatically play the animation track.
 - The animation files can be used in the CS by assignined the export file which _does not_ start with `x` to an NPC, and then setting their AI appropriately if needed. If you used `idle9` as the text key, set that field to 100% chance in the AI window of the CS for it to run in a loop.
