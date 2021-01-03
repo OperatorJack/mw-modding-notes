@@ -1,3 +1,9 @@
+---
+layout: default
+title: Animation
+nav_order: 1
+---
+
 # Animation
 
 <details open markdown="block">

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 404
-nav_exclude: true
+title: Home
+nav_order: 0
 ---
 
 # mw-modding-notes
