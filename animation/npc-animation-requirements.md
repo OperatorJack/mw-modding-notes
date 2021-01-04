@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NPC Animation Requirements
+title: Requirements
 parent: NPC Animation
 grand_parent: Animation
 nav_order: 2

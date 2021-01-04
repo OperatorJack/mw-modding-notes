@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Creating an NPC Animation
+title: Creating
 parent: NPC Animation
 grand_parent: Animation
 nav_order: 3

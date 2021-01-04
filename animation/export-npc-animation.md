@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Exporting an NPC Animation
+title: Exporting
 parent: NPC Animation
 grand_parent: Animation
 nav_order: 4
