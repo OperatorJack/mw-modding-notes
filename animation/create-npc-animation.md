@@ -3,7 +3,7 @@ layout: default
 title: Creating an NPC Animation
 parent: NPC Animation
 grand_parent: Animation
-nav_order: 2
+nav_order: 3
 ---
 
 ## Creating an NPC Animation

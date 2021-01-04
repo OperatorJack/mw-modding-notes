@@ -1,3 +1,11 @@
+---
+layout: default
+title: NPC Animation Requirements
+parent: NPC Animation
+grand_parent: Animation
+nav_order: 2
+---
+
 ## NPC Animation Requirements
 
 - Requires Morrowind & Construction Set

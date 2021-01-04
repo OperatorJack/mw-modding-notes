@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Animation Text Keys
-parent: NPC Animation
-grand_parent: Animation
-nav_order: 4
+parent: Animation
+nav_order: 5
 ---
 
 ## Animation Text Keys
