@@ -15,4 +15,4 @@ nav_order: 4
 {:toc}
 </details>
 
-This section describes different aspects of the NIF file structure, including some advanced behaviors which can be useful for creating unique effects in Morrowind.
+This section describes different optimizations whould can / should be done when exporting a mesh for use in Morrowind.
